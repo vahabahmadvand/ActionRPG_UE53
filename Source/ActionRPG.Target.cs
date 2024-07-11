@@ -11,6 +11,6 @@ public class ActionRPGTarget : TargetRules
 		Type = TargetType.Game;
 		ExtraModuleNames.AddRange(new string[] { "ActionRPG" });
 
-		DefaultBuildSettings = BuildSettingsVersion.V2;
+		DefaultBuildSettings = BuildSettingsVersion.V5;
 	}
 }
